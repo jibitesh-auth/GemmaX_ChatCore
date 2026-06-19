@@ -1,7 +1,7 @@
 # GemmaX ChatCore
 
 <p align="center">
-  <img src="docs/architecture.png" alt="GemmaX ChatCore Architecture">
+  <img src="docs/architecture_.png" alt="GemmaX ChatCore Architecture">
 </p>
 
 <h1 align="center">GemmaX ChatCore</h1>
@@ -63,7 +63,7 @@ GemmaX ChatCore was developed to provide a unified experimentation platform that
 GemmaX ChatCore follows a layered architecture that separates user interaction, orchestration, service execution, model inference, and response processing.
 
 <p align="center">
-  <img src="docs/architecture.png" alt="System Architecture">
+  <img src="docs/architecture_.png" alt="System Architecture">
 </p>
 
 ### Architecture Layers
@@ -112,7 +112,7 @@ GemmaX ChatCore follows a layered architecture that separates user interaction, 
 ## Cloud Chat Workflow
 
 <p align="center">
-  <img src="docs/cloud-chat-flow.png" alt="Cloud Chat Workflow" width="450">
+  <img src="docs/cloudchat-flow.png" alt="Cloud Chat Workflow" width="450">
 </p>
 
 Handles conversational interactions through cloud-hosted Gemma models.
@@ -122,7 +122,7 @@ Handles conversational interactions through cloud-hosted Gemma models.
 ## Vision Workflow
 
 <p align="center">
-  <img src="docs/vision-flow.png" alt="Vision Workflow" width="450">
+  <img src="docs/visionflow.png" alt="Vision Workflow" width="450">
 </p>
 
 Processes multimodal image understanding requests.
