@@ -112,7 +112,7 @@ GemmaX ChatCore follows a layered architecture that separates user interaction, 
 ## Cloud Chat Workflow
 
 <p align="center">
-  <img src="docs/cloudchat-flow.png" alt="Cloud Chat Workflow" width="450">
+  <img src="docs/cloudchat_flow.png" alt="Cloud Chat Workflow" width="450">
 </p>
 
 Handles conversational interactions through cloud-hosted Gemma models.
