@@ -1,7 +1,7 @@
 # GemmaX ChatCore
 
 <p align="center">
-  <img src="banner_.png" alt="GemmaX ChatCore">
+  <img src="assets/banner_.png" alt="GemmaX ChatCore">
 </p>
 
 <h1 align="center">GemmaX ChatCore</h1>
