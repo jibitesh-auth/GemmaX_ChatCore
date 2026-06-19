@@ -248,8 +248,8 @@ GemmaX_ChatCore/
 
 # Contributors
 
-### Jibitesh Kumar Mishra
-### Ankita Singh
+* Jibitesh Kumar Mishra
+* Ankita Singh
 
 Developed collaboratively as an exploration of multimodal AI systems and hybrid inference architectures.
 
