@@ -251,15 +251,7 @@ GemmaX_ChatCore/
 # Contributors
 
 ### Jibitesh Kumar Mishra
-
-* Architecture Design
-* System Development
-* Documentation
-
 ### Ankita Singh
-
-* Model Experimentation
-* Testing and Validation
 
 Developed collaboratively as an exploration of multimodal AI systems and hybrid inference architectures.
 
