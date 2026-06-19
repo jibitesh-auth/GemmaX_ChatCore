@@ -1,5 +1,3 @@
-# GemmaX ChatCore
-
 <p align="center">
   <img src="assets/banner_.png" alt="GemmaX ChatCore">
 </p>
