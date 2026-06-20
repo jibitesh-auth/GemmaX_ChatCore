@@ -212,6 +212,43 @@ Function calling extends model capabilities beyond text generation by enabling i
 
 ---
 
+## Quick Start
+
+1. Clone the repository and open the notebook in Google Colab.
+
+2. Generate a Google AI Studio API key and add it to Colab Secrets as:
+
+```python
+API_KEY = "YOUR_API_KEY"
+```
+
+3. Log in to Kaggle and generate a new API token from:
+
+```text
+Profile → Settings → API → Create New Token
+```
+
+4. Authenticate Kaggle inside the notebook:
+
+```python
+import kagglehub
+
+kagglehub.login()
+```
+
+Paste your Kaggle token when prompted.
+
+5. Run all notebook cells.
+
+You're now ready to use:
+
+* Text Chat
+* Image Understanding
+* Function Calling
+
+with Gemma-powered multimodal AI workflows.
+
+
 # Project Structure
 
 ```text
